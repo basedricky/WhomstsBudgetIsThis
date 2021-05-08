@@ -2,7 +2,7 @@
   
   # WhomstsBudgetIsThis
   
-  ![Screenshot](../public/assets/budget.png?raw=true)
+  ![Screenshot](./public/assets/budget.png?raw=true)
 
   ## Description
 
